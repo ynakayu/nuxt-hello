@@ -1,6 +1,6 @@
 <template>
   <section class="container">
-    <p>Hello World!</p>
+    <p>Hello Nuxt.js!</p>
   </section>
 </template>
 
